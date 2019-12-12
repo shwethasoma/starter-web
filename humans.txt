@@ -2,7 +2,6 @@
 # The humans responsible & technology colophon
 
 Hi everyone
-This is Shwetha
 # TEAM
 
     <name> -- <role> -- <twitter>
@@ -15,3 +14,4 @@ This is Shwetha
 
     HTML5, CSS3
     jQuery, Modernizr
+	C++
