@@ -18,3 +18,4 @@ Hi everyone
     c++
     I am in devops training
     hello all
+    I am new to devops
