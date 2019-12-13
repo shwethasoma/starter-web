@@ -16,3 +16,4 @@ Hi everyone
     jQuery, Modernizr
     c++
     I am in devops training
+    hello all
