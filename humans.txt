@@ -7,7 +7,7 @@ Hi everyone
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+	Thank you all
     <name>
 
 # TECHNOLOGY COLOPHON
