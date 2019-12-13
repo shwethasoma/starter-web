@@ -8,6 +8,7 @@ Hi everyone
 
 # THANKS
 	Thank you all
+	You are welcome
     <name>
 
 # TECHNOLOGY COLOPHON
